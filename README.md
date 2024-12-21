@@ -1,6 +1,6 @@
 <!-- Header với background -->
 <div align="center">
-  <img src="blob:https://i.imgur.com/nivZ3jR.png" width="100%" alt="Banner"/>
+  <img src="https://i.imgur.com/nivZ3jR.png" width="100%" alt="Banner Image"/>
 </div>
 
 <!-- Giới thiệu -->
@@ -8,8 +8,8 @@
 <h3 align="center">Passionate Developer | Minecraft Player</h3>
 
 <!-- Thông tin về bản thân -->
-- 🔭 I'm living on VietNam
-- 🌱 I'm working at LangLaVN ( Minecraft server )
+- 🔭 I was born and raised in Vietnam
+- 🌱 I'm working at LangLaVN [( Minecraft server )](https://dsc.gg/langlavn)
 - 👯 My bio information website [https://minhtaz.github.io/]
 - 📫 How to reach me: [phxnquyng@Gmail.com]
 
